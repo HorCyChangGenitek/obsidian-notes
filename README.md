@@ -27,5 +27,5 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 If you use or modify these notes, please include the following attribution:
 如果您引用或修改了這些筆記，請包含以下標註資訊：
 
-> **Source / 來源**: [obsidian-notes](https://github.com/HorCyChangGenitek/obsidian-notes) by **HorCy**
+> **Source / 來源**: [[obsidian-notes](https://github.com/HorCyChangGenitek/obsidian-notes)] by **HorCy**
 > **License / 授權**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.zh-Hant)
