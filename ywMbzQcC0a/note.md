@@ -2,37 +2,29 @@
 
 ### Day 1
 
-* **11:00 - [烏樹林休閒園區**](https://maps.app.goo.gl/N4v3yXvV7mXz7R946)
+**11:00 - [烏樹林休閒園區**](https://www.google.com/maps/search/?api=1&query=烏樹林休閒園區)
 * 這裡可以體驗五分車火車之旅，適合全家大小一起感受懷舊的糖鐵文化。
 
-
-* **15:30 - [水火同源**](https://maps.app.goo.gl/8XW69D9PmsF3p1fGA)
+**15:30 - [水火同源**](https://www.google.com/maps/search/?api=1&query=水火同源)
 * 關子嶺必看的奇景，天然氣與泉水共存的景象非常壯觀。
 
-
-* **16:00 - [火山碧雲寺**](https://maps.app.goo.gl/9y5y6Fp2gD7U8S3G8)
+**16:00 - [火山碧雲寺**](https://www.google.com/maps/search/?api=1&query=火山碧雲寺)
 * 歷史悠久的寺院，其地理位置極佳，是觀賞平原日落美景的絕佳地點。
 
 
-* **17:00 - [儷泉溫泉館**](https://maps.app.goo.gl/P69yU7fV78sW7o8J9)
+**17:00 - [儷泉溫泉館**](https://www.google.com/maps/search/?api=1&query=儷泉溫泉館)
 * 提供溫馨的住宿與溫泉設施，讓您在行程第一天徹底放鬆。
 
 
 
 ### Day 2
 
-* **11:00 - 辦理退房**
-* **[嶺頂公園](https://maps.app.goo.gl/5tE7F2p7P7s8L9A66)**
+**11:00** - 辦理退房**
+
+**[嶺頂公園](https://www.google.com/maps/search/?api=1&query=嶺頂公園)**
 * 位於關子嶺溫泉區的最高處，環境清幽，適合漫步。
 
-
-* **[台灣木材故事館](https://maps.app.goo.gl/8U7u7P7s7S8W7o8L9)**
+**[台灣木材故事館](https://www.google.com/maps/search/?api=1&query=台灣木材故事館+關子嶺)**
 * 展示豐富的木材知識與工藝，是個充滿教育意義且舒適的室內景點（請留意：週一為休館日）。
 
-
-
-**實用的導航資訊：**
-
-* 您可以透過此連結查看[所有景點的彙整地圖](https://www.google.com/maps/dir/%3Fapi%3D1%26destination%3D%E5%84%B7%E6%B3%89%E6%BA%AB%E6%B3%89%E9%A4%A8%26waypoints%3D%E7%83%8F%E6%A8%B9%E6%9E%97%E4%BC%91%E9%96%92%E5%9C%92%E5%8D%80%7C%E6%B0%B4%E7%81%AB%E5%90%8C%E6%BA%90%7C%E7%81%AB%E5%B1%B1%E7%A2%A7%E9%9B%B2%E5%AF%BA%7C%E5%B6%BA%E9%A0%82%E5%85%AC%E5%9C%92%7C%E9%97%9C%E4%BB%94%E5%B6%BA%E8%87%BA%E7%81%A3%E6%9C%A8%E6%9D%90%E6%95%85%E4%BA%8B%E9%A4%A8)。
-
-祝您與家人在關子嶺擁有一段美好的旅遊時光！若需要微調行程或增加餐廳資訊，歡迎隨時告訴我。
+**16:00** 帶著愉快心情回程
